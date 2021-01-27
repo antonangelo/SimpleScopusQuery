@@ -9,3 +9,5 @@ apikey = yourscopusapikey
 
 and use `from apikey import apikey` in your main code.
 
+You'll also want to create a directory `results` to save your results.
+
